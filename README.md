@@ -117,7 +117,8 @@ int main(){
 
 Output:
 
-<img width="1455" height="901" alt="image" src="https://github.com/user-attachments/assets/4e4c84b9-8468-44c6-bb08-dd8afc1123d0" />
+<img width="641" height="477" alt="image" src="https://github.com/user-attachments/assets/8f924d2d-ceaf-4889-93e0-423ae90b04f0" />
+
 
 
 ## RESULT:
